@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "sistema": "Assistente de atendimento",
+        "tipo": "empresa",
+        "finalidade": "Responder dúvidas de clientes",
+        "tecnologia": "IA generativa",
+        "nivel_risco": "Médio",
+        "possui_revisao_humana": true
+    },
+    {
+        "id": 2,
+        "sistema": "Assistente de estudos",
+        "tipo": "escola",
+        "finalidade": "Auxíliar possíveis dúvidas dos estudantes",
+        "tecnologia": "IA generativa",
+        "nivel_risco": "Médio-Baixo",
+        "possui_revisao_humana": true
+    },
+    {
+        "id": 3,
+        "sistema": "Geração de relatórios",
+        "tipo": "gerencia",
+        "finalidade": "Gerar relatórios para funcionários",
+        "tecnologia": "IA generativa",
+        "nivel_risco": "Médio-Alto",
+        "possui_revisao_humana": false
+    },
+    {
+        "id": 4,
+        "sistema": "Marketing",
+        "tipo": "comercial",
+        "finalidade": "Criar anúncios",
+        "tecnologia": "IA generativa",
+        "nivel_risco": "Baixo",
+        "possui_revisao_humana": false
+    },
+    {
+        "id": 5,
+        "sistema": "Controle de reconhecimento facial",
+        "tipo": "geral",
+        "finalidade": "Controlar a entrada e saída de pessoas com reconhecimento facial",
+        "tecnologia": "IA generativa",
+        "nivel_risco": "Alto",
+        "possui_revisao_humana": false
+    }
+]
